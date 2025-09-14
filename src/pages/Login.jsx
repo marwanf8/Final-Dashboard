@@ -19,6 +19,9 @@ function Login() {
       <Logo />
       <Heading as="h4">Log in to your account</Heading>
       <LoginForm />
+      <Heading>Email: test@test.com</Heading>
+      <Heading>Password: 123456789</Heading>
+      <Heading>Create new user from USERS. Enjoy</Heading>
     </LoginLayout>
   );
 }
