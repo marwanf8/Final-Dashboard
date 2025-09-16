@@ -21,3 +21,5 @@ A fully dynamic and responsive **Dashboard** for hotel management built using Re
 - **Clean & Maintainable Codebase**
 ## Live Demo
 Check out [The Wild Oasis](https://final-dashboard-sigma.vercel.app/).
+## Preview
+<img width="1354" height="642" alt="Capture" src="https://github.com/user-attachments/assets/6c319bff-eae6-4333-8ba9-f25897d539d0" />
