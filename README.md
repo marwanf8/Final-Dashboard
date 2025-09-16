@@ -28,8 +28,8 @@ Check out [The Wild Oasis](https://final-dashboard-sigma.vercel.app/).
 ## Quick start
 #### Cloning the Repository
 ```bash
-git clone https://github.com/ahmedragab15/Travel-Agency-Dashboard
-cd Travel-Agency-Dashboard
+git clone https://github.com/marwanf8/Final-Dashboard
+cd Final-Dashboard
 ```
 #### Installation
 <p>Install the project dependencies using npm:</p>
