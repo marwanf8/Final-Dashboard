@@ -23,3 +23,25 @@ A fully dynamic and responsive **Dashboard** for hotel management built using Re
 Check out [The Wild Oasis](https://final-dashboard-sigma.vercel.app/).
 ## Preview
 <img width="1354" height="642" alt="Capture" src="https://github.com/user-attachments/assets/6c319bff-eae6-4333-8ba9-f25897d539d0" />
+
+---
+## Quick start
+#### Cloning the Repository
+```bash
+git clone https://github.com/ahmedragab15/Travel-Agency-Dashboard
+cd Travel-Agency-Dashboard
+```
+#### Installation
+<p>Install the project dependencies using npm:</p>
+
+```bash
+npm install
+```
+
+#### Running the Project
+
+```bash
+npm run div
+```
+Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+
